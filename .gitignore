@@ -19,6 +19,10 @@ Thumbs.db
 # Mac DS_Store Files
 .DS_Store
 
+# Environment variables
+.env
+.env.local
+
 # composer vendor dir
 /vendor
 
